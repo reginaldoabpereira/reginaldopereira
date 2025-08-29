@@ -10,3 +10,13 @@ Expert em Engenharia de Software | Modelagem de Sistemas | Análise de Sistemas
 Mandarim - Nível Básico
 
 Não possuo redes em midias sociais, apena sou um profissional da area de TI
+
+##
+
+
+<i class="devicon-amazonwebservices-plain-wordmark"></i>
+<i class="devicon-angular-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
