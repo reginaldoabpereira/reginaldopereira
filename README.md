@@ -14,11 +14,13 @@ Não possuo redes em midias sociais, apena sou um profissional da area de TI
 ##
 
 <div align="center">
-  <i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 40px;"></i>
-  <i class="devicon-nodejs-plain colored" style="font-size: 40px;"></i>
-  <i class="devicon-angularjs-plain colored" style="font-size: 40px;"></i>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain-wordmark.svg" width="40" height="40" alt="Angular" />
+  <img 
 
-  <span style="font-size: 24px; font-weight: bold; margin: 0 10px;">Back-end</span>
-  <span style="font-size: 24px; font-weight: bold; margin: 0 10px;">Front-end</span>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 </div>
