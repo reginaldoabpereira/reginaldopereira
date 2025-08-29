@@ -4,7 +4,7 @@
 
 Graduação e Pós em Ciências da Computação pela **UNIFACS**
 
-Desenvolvimento de Software e Web. Sistemas Corporativos 
+💻 `Desenvolvimento de Software e Web.` `Sistemas Corporativos`
 
 Expert em Engenharia de Software | Modelagem de Sistemas | Análise de Sistemas
 
