@@ -13,4 +13,4 @@ Não possuo redes em midias sociais, apena sou um profissional da area de TI
 
 ##
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,flutter,git,angular,nodejs,js,cpp,java">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,git,angular,nodejs,js,cpp,java">
