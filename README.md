@@ -14,9 +14,11 @@ Não possuo redes em midias sociais, apena sou um profissional da area de TI
 ##
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <i class="devicon-amazonwebservices-plain-wordmark" style="font-size: 40px;"></i>
-  <i class="devicon-angular-plain" style="font-size: 40px;"></i>
+  <i class="devicon-amazonwebservices-plain-wordmark colored" style="font-size: 40px;"></i>
+  <i class="devicon-nodejs-plain colored" style="font-size: 40px;"></i>
+  <i class="devicon-angularjs-plain colored" style="font-size: 40px;"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
+
+  <span style="font-size: 24px; font-weight: bold; margin: 0 10px;">Back-end</span>
+  <span style="font-size: 24px; font-weight: bold; margin: 0 10px;">Front-end</span>
 </div>
