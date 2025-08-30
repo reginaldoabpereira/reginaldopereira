@@ -21,13 +21,13 @@ Mandarim - Nível Básico**
 
 reginaldoabpereira@protonmail.com
 
-##
+#
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,git,angular,nodejs,js,cpp,java">
 
-##
+#
 
 ### Linguagens
-🇺🇸 Inglês - C1 - PROFICIENTE AVANÇADO (2 Formações)
+🇺🇸 Inglês - C2 - (Proficiente) [2 Formações]
 
-🇨🇳 Mandarim - Nível Básico
+🇨🇳 Mandarim - A2 - (Básico)
