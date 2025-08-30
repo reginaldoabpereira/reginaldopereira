@@ -21,6 +21,11 @@ Mandarim - Nível Básico**
 
 reginaldoabpereira@protonmail.com
 
+##
+<a href="https://www.linkedin.com/in/reginaldo-pereira">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="Logo do LinkedIn" width="30" height="30">
+</a>
+
 #
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,mongodb,git,angular,nodejs,js,cpp,java">
